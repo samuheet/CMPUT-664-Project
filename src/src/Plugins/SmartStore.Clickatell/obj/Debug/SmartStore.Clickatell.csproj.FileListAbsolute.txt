@@ -1,0 +1,14 @@
+E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\Plugins\SmartStore.Clickatell\Content\branding.png
+E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\Plugins\SmartStore.Clickatell\Views\SmsClickatell\Configure.cshtml
+E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\Plugins\SmartStore.Clickatell\web.config
+E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\Plugins\SmartStore.Clickatell\Views\Web.config
+E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\Plugins\SmartStore.Clickatell\Description.txt
+E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\Plugins\SmartStore.Clickatell\Content\icon.png
+E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\Plugins\SmartStore.Clickatell\Localization\resources.de-de.xml
+E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\Plugins\SmartStore.Clickatell\Localization\resources.en-us.xml
+E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\Plugins\SmartStore.Clickatell\SmartStore.Clickatell.dll.config
+E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\Plugins\SmartStore.Clickatell\SmartStore.Clickatell.dll
+E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\Plugins\SmartStore.Clickatell\SmartStore.Clickatell.pdb
+E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Plugins\SmartStore.Clickatell\obj\Debug\SmartStore.Clickatell.csprojAssemblyReference.cache
+E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Plugins\SmartStore.Clickatell\obj\Debug\SmartStore.Clickatell.dll
+E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Plugins\SmartStore.Clickatell\obj\Debug\SmartStore.Clickatell.pdb
