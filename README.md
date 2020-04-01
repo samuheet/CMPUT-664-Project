@@ -14,5 +14,16 @@ This project uses the commercial version of [Coverity static analysis tool](http
 
 **Important:** Other components might be needed as per the individual software.
 
-## Results
+Projects:
 
+1. [OWASP Benchmark](https://github.com/OWASP/Benchmark) - A Java test suite designed to evaluate the accuracy, coverage, and speed of automated software vulnerability detection tools. 
+
+2. [Vulnerable Web Application](https://github.com/OWASP/Vulnerable-Web-Application) - This app categorically includes Command Execution, File Inclusion, File Upload, SQL and XSS vulnerabilities.
+
+3. [OWASP WebGoat.NET](https://github.com/OWASP/WebGoat.NET) - A vulnerable web application built on .NET Framework.
+
+4. [WebGoat 8](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure web application maintained by OWASP built on Java.
+
+
+## Results
+TO DO
