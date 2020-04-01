@@ -12,5 +12,7 @@ Commercial tool:
 
 This project uses the commercial version of [Coverity static analysis tool](https://community.synopsys.com/s/getting-started-with-synopsys#GSCoverity) and requires Coverity's Analysis license along with the Platform license. 
 
+**Important:** Other components might be needed as per the individual software.
+
 ## Results
 
