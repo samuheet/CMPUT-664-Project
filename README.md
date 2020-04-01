@@ -1,4 +1,4 @@
-# CMPUT-664-Project
- Repository for comparision of static analysis tools to detect SQL Injection and Cross-site Scripting.
+# Comparision of Static Analysis tools to detect SQL Injection and Cross-site Scritping
+A study of open-source and commercial static analysis tools to detect SQL Injection and Cross-site Scripting.
  
- First step is to find the open source projects for analysis.
+ 
