@@ -10,9 +10,9 @@ Open source tools:
 
 Commercial tool:
 
-This project uses the commercial version of [Coverity static analysis tool](https://community.synopsys.com/s/getting-started-with-synopsys#GSCoverity) and requires Coverity's Analysis license along with the Platform license. To run static analysis on Coverity, project specific compilers need to be installed on the system. For example, a Java project can be build using Maven and Ant. 
+This project uses the commercial version of [Coverity static analysis tool](https://community.synopsys.com/s/getting-started-with-synopsys#GSCoverity) and requires Coverity's Analysis license along with the Platform license. To run static analysis on Coverity, the project needs to be built with the specific build tools. For example, Java projects are commonly built using Maven or Ant. Only Maven was required in this project. 
 
-**Important:** Other components might be needed as per the individual software.
+**Important:** 
 
 Projects:
 
@@ -20,7 +20,7 @@ Projects:
 
 2. [Vulnerable Web Application](https://github.com/OWASP/Vulnerable-Web-Application) - This PHP web app categorically includes Command Execution, File Inclusion, File Upload, SQL and XSS vulnerabilities.
 
-3. [OWASP WebGoat.NET](https://github.com/OWASP/WebGoat.NET) - A vulnerable web application built on .NET Framework.
+3. [OWASP WebGoat.NET](https://github.com/OWASP/WebGoat.NET) - A vulnerable web application built on .NET Framework maintained by OWASP.
 
 
 ## Results
