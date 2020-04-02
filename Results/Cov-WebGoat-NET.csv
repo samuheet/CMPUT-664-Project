@@ -1,0 +1,78 @@
+﻿CID,Type,Impact,First Detected,Owner,Classification,Severity,Action,Component,Category
+19653,Unused value,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Code maintainability issues
+19693,Unused value,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Code maintainability issues
+19674,Resource leak on an exceptional path,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks
+19676,Resource leak on an exceptional path,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks
+19694,Resource leak on an exceptional path,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks
+19642,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19643,Cross-site scripting,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19646,Cross-site scripting,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19648,Cross-site scripting,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19649,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19651,Cross-site request forgery,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19654,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19657,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19659,Cross-site scripting,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19660,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19662,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19664,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19665,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19666,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19667,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19669,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19670,"Filesystem path, filename, or URI manipulation",High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19671,"Filesystem path, filename, or URI manipulation",High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19672,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19673,Cross-site scripting,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19677,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19678,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19679,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19681,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19683,Cross-site request forgery,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19684,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19685,Cross-site scripting,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19686,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19687,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19688,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19689,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19691,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19692,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19696,Cross-site scripting,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19697,Cross-site request forgery,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19700,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19702,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19703,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19707,Cross-site scripting,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19709,Cross-site scripting,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19711,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19717,SQL injection,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security
+19644,Debug mode enabled,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security
+19658,Debug mode enabled,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security
+19668,ASP.NET MVC version header included,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security
+19675,Missing custom error page,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security
+19690,Missing HttpOnly in cookies,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security
+19695,Missing HttpOnly in cookies,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security
+19701,ASP.NET version disclosure,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security
+19704,ASP.NET version disclosure,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security
+19705,ASP.NET version disclosure,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security
+19713,ASP.NET MVC version header included,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security
+19714,Missing custom error page,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security
+19715,Missing HttpOnly in cookies,Low,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security
+19647,Open redirect,Medium,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Medium impact security
+19682,Risky cryptographic hashing function,Medium,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Medium impact security
+19641,Dereference null return value,Medium,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+19645,Dereference null return value,Medium,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+19650,Dereference null return value,Medium,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+19652,Dereference null return value,Medium,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+19655,Dereference null return value,Medium,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+19656,Dereference null return value,Medium,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+19663,Dereference null return value,Medium,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+19698,Dereference null return value,Medium,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+19706,Dereference null return value,Medium,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+19708,Dereference after null check,Medium,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+19710,Dereference null return value,Medium,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+19716,Dereference null return value,Medium,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+19661,Resource leak,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks
+19680,Resource leak,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks
+19699,Resource leak,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks
+19712,Resource leak,High,04/01/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks
