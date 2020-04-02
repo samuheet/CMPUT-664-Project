@@ -1,7 +1,0 @@
-E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\bin\SmartStore.Admin.dll.config
-E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\bin\SmartStore.Admin.dll
-E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\bin\SmartStore.Admin.pdb
-E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.csprojAssemblyReference.cache
-E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.csproj.CopyComplete
-E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.dll
-E:\Winter 2020\CMPUT 664\Project\Progress\SmartStoreNET-4.x\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.pdb
