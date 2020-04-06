@@ -27,7 +27,44 @@ Projects:
 
 
 ## Perform Static Analysis
-TODO
+
+**Coverity**
+
+
+**Visual Code Grepper (VCG)**
+
+To use VCG, download the repository from GitHub and go to the directory /VCG-Setup/Release/. 
+
+1. Install the software using VCGSetup.msi file. 
+2. Next, open the application which provides a GUI interface. 
+3.Select the language of the project you want to scan, provide the path to project directory and run a full scan. Results are generated after the scan completes and can be exported to CSV/XML. Repeat this step with different projects. 
+
+**phpSAFE**
+
+To use phpSAFE, download the repository from GitHub. Install Xampp and start the Apache server. Go to installed directory where Xampp is installed. Navigate to \Xampp\htdocs and place the downloaded phpSAFE repository.  
+
+1. In the copied phpSAFE repository available in \Xampp\htdocs, go to \Xampp\htdocs\test.
+2. Place all the PHP files that need to be scanned into this directory.
+3. Open a browser and type localhost\phpSAFE. 
+4. Select the file that needs to be scanned and click on Analyze file.
+5. Export the outputs.
+6. Go back to the homepage and repeat the steps 4 to 6 for all the files.
+
+Note: phpSAFE scans only one file at a time.
+
+**Security Code Scan (SCS)**
+
+SCS is available as an extension to the Visual Studio. It can also be added as a NuGet package to specific projects. 
+
+1. Install SCS from the Visual Studio extension marketplace.
+2. Open the Options dialog box, on the menu bar in Visual Studio choose Tools > Options. 
+3. In the Options dialog box, choose Text Editor > C# or Basic > Advanced. Make sure that the "Full solution analysis" checkbox is checked. Otherwise, the scan occurs only for the current project.
+4. Build the project in Visual Studio and go to the Error list tab to see the scan results.
+
+**FPwFindSecBugs**
+
+FPwFindSecBugs is available as a plugin to the Eclipse IDE. The analysis results of FPwFindSecBugs on the Benchmark project are available on the [OWASP Benchmark](https://owasp.org/www-project-benchmark/) website.
+
 
 ## Results
 TODO
