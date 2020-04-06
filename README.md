@@ -61,7 +61,7 @@ PHP files are regarded as Scripts or Interpreted Code so, they need not be built
 
 Once the build is captured, move to the next tab i.e. Analysis tab in the Coverity wizard. Click on Run Analysis. This step will take some time, depending on the size of your project. This is the step where Coverity performs the analysis. 
 
-After the analysis is completed, click next to go to the Commits tab. In this tab, provide the address of your local Coverity server that you configured while installing the Coverity Server (example:http://laptop-2v2xxx88:8080/). Click on Commit Defects and the scanned defects are commited to your local server where you can view, track and export the bugs using the same above server URL (http://laptop-2v2xxx88:8080/).
+After the analysis is completed, click next to go to the Commits tab. In this tab, provide the address of your local Coverity server that you configured while installing the Coverity Server (example:http://laptop-2v2xxxxx:8080/). Click on Commit Defects and the scanned defects are commited to your local server where you can view, track and export the bugs using the same above server URL (http://laptop-2v2xxxxx:8080/).
          
 **Visual Code Grepper (VCG)**
 
