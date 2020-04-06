@@ -2,14 +2,14 @@
 A study of open-source and commercial static analysis tools to detect SQL Injection and Cross-site Scripting.
  
 ## Requirements
-To replicate this study, the below open-source tools and projects are required. Additionally, commercial Coverity licenses are needed. 
+To replicate this study, the below open-source tools and projects are required. Additionally, commercial Coverity licenses are needed. All the softwares below are run on Windows but the instructions are also valid for other operating systems. 
 
 Open source tools:
 
 1. [Visual Code Grepper](https://github.com/nccgroup/VCG)
 2. [phpSAFE](https://github.com/JoseCarlosFonseca/phpSAFE)
-3. [FPwFindSecBugs](https://github.com/find-sec-bugs/find-sec-bugs)
-4. [SecureCodeScan](https://security-code-scan.github.io/)
+3. [SecureCodeScan](https://security-code-scan.github.io/)
+4. [FPwFindSecBugs](https://github.com/find-sec-bugs/find-sec-bugs)
 
 Commercial tool:
 
@@ -17,7 +17,7 @@ This project uses the commercial version of [Coverity static analysis tool](http
 
 **Important:** Xampp is need to run phpSAFE.
 
-Projects:
+Open-source web projects:
 
 1. [OWASP Benchmark](https://github.com/OWASP/Benchmark) - A Java test suite designed to evaluate the accuracy, coverage, and speed of automated software vulnerability detection tools. 
 
@@ -30,7 +30,39 @@ Projects:
 
 **Coverity**
 
+Install Coverity Connect Server and configure a new server on your local machine. Install the Coverity Platform Analysis software. The Coverity Platform Analysis is basically a wizard which enables users to scan the source code.
 
+Open the Coverity wizard and go to File -> click on "new configuration". Enter a name for your configuration. Click next. In the Working Directory, provide path to the project that needs to be scanned. In Intermediate directory section, provide the path where you want the ouput to be generated. 
+
+Next, follow the instructions depending on your project.
+
+* Settings for Java projects:
+
+All Java projects can be build using the command line.
+1. Select the Compiled Code checkbox and uncheck the Scripts or Interpreted Code checkbox.
+2. Select the Command line build radio button.
+3. Enter the 'Clean' and 'Build' commands depending upon the build tool ([Maven](https://maven.apache.org/install.html) or [Ant](https://ant.apache.org/manual/install.html) build) used in the project. For Maven, use 'mvn clean' and 'mvn install'. For Ant, use 'ant clean' and 'ant' commands.
+4. Click on Capture Build.
+
+* Settings for C# projects:
+
+Command line build for C# was not used in this project instead C# projects were build using the Visual Studio IDE (not to be confused with VS Code). It is simpler for C# projects to build using an IDE. 
+1. Select the Compiled Code checkbox and uncheck the Scripts or Interpreted Code checkbox.
+2. Select the IDE build radio button.
+3. Provide the path to the executable file of IDE i.e. path to Visual Studio.exe.
+4. Click on Capture Build. This will open Visual Studio (VS). In VS, open the project that you intended to scan. Then, build the entire Solution. 
+5. After the Solution is built, close Visual Studio and Coverity wizard automatically recognizes the build. 
+
+* Settings for PHP projects:
+
+PHP files are regarded as Scripts or Interpreted Code so, they need not be built.
+1. Select the Scripts or Interpreted Code checkbox and uncheck the Compiled Code checkbox.
+2. Click on Capture Build. If you see an error like 'No files found to scan', click on the Edit Buildless Capture Settings button. Delete the current path available in the list and manually add the path to the project. 
+
+Once the build is captured, move to the next tab i.e. Analysis tab in the Coverity wizard. Click on Run Analysis. This step will take some time, depending on the size of your project. This is the step where Coverity performs the analysis. 
+
+After the analysis is completed, click next to go to the Commits tab. In this tab, provide the address of your local Coverity server that you configured while installing the Coverity Server (example:http://laptop-2v2xxx88:8080/). Click on Commit Defects and the scanned defects are commited to your local server where you can view, track and export the bugs using the same above server URL (http://laptop-2v2xxx88:8080/).
+         
 **Visual Code Grepper (VCG)**
 
 To use VCG, download the repository from GitHub and go to the directory /VCG-Setup/Release/. 
