@@ -2,6 +2,7 @@
 A study of open-source and commercial static analysis tools to detect SQL Injection and Cross-site Scripting.
  
 ## Requirements
+To replicate this study, the below open-source tools and projects are required. Additionally, commercial Coverity licenses are needed. 
 
 Open source tools:
 
@@ -14,7 +15,7 @@ Commercial tool:
 
 This project uses the commercial version of [Coverity static analysis tool](https://community.synopsys.com/s/getting-started-with-synopsys#GSCoverity) and requires Coverity's Analysis license along with the Platform license. To run static analysis on Coverity, the code needs to be built with specific build tools or using IDE. For example, Java projects are commonly built using Maven or Ant. In this project, only Maven was required for Java. DotNET projects were built using Visual Studio 2019. PHP projects do not require to be built as they are considered to be just scripts/interpreted code. 
 
-**Important:** 
+**Important:** Xampp is need to run phpSAFE.
 
 Projects:
 
@@ -25,5 +26,8 @@ Projects:
 3. [OWASP WebGoat.NET](https://github.com/OWASP/WebGoat.NET) - A vulnerable web application built on .NET Framework maintained by OWASP.
 
 
+## Perform Static Analysis
+TODO
+
 ## Results
-TO DO
+TODO
