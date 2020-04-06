@@ -46,7 +46,7 @@ All Java projects can be build using the command line.
 
 * Settings for C# projects:
 
-Command line build for C# was not used in this project instead C# projects were build using the Visual Studio IDE (not to be confused with VS Code). It is simpler for C# projects to build using an IDE. 
+Command line build for C# was not used in this project instead C# projects were build using the Visual Studio IDE (not to be confused with VS Code). It is simple to build C# projects using an IDE instead of command line. 
 1. Select the Compiled Code checkbox and uncheck the Scripts or Interpreted Code checkbox.
 2. Select the IDE build radio button.
 3. Provide the path to the executable file of IDE i.e. path to Visual Studio.exe.
