@@ -15,7 +15,7 @@ Commercial tool:
 
 This project uses the commercial version of [Coverity static analysis tool](https://community.synopsys.com/s/getting-started-with-synopsys#GSCoverity) and requires Coverity's Analysis license along with the Platform license. To run static analysis on Coverity, the code needs to be built with specific build tools or using IDE. For example, Java projects are commonly built using Maven or Ant. In this project, only Maven was required for Java. DotNET projects were built using Visual Studio 2019. PHP projects do not require to be built as they are considered to be just scripts/interpreted code. 
 
-**Important:** Xampp is need to run phpSAFE.
+**Important:** Xampp is need to run RIPS.
 
 Open-source web projects:
 
