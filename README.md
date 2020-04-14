@@ -2,7 +2,7 @@
 A study of open-source and commercial static analysis tools to detect SQL Injection and Cross-site Scripting.
  
 ## Requirements
-To replicate this study, the below open-source tools and projects are required. Additionally, commercial Coverity licenses are needed. All the softwares below are run on Windows but the instructions are also valid for other operating systems. 
+To replicate this study, the below open-source tools and projects are required. Additionally, commercial Coverity licenses are needed. All the softwares below are used on Windows but the instructions are also valid for other operating systems. 
 
 Open source tools:
 
